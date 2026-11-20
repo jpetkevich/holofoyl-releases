@@ -38,5 +38,8 @@
     "on": true,
     "endpoint": "https://tivmlojtfsbwddfscoiq.supabase.co",
     "key": "sb_publishable_n3pFNHAbNOLc7OAHk6Bd-w_H-ZNqnki"
+  },
+  "affiliate": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/7978992/1780961/21018?partnerpropertyid=9025971"
   }
 }
